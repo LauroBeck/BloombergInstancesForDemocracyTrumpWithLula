@@ -1,0 +1,2 @@
+EXEC Sp_Execute_Cube_Fact_Data_Flow;
+GO
